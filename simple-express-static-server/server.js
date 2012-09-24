@@ -18,3 +18,4 @@ app.configure(function(){
 });
 
 app.listen(8000);
+//now go to localhost:8000 to see
